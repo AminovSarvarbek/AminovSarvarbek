@@ -25,8 +25,6 @@ class SarvarbekAminov:
     def get_skills(self):
         return ["Python", "JavaScript", "React", "Dart", "Flutter", "Vue.js", "TailwindCSS"]
     
-    def get_projects(self):
-        return ["StockView", "Rockket", "Tic-Tac-Toe Flutter App", "Trader Bot for Forex"]
 
 sarvarbek = SarvarbekAminov()
 print(sarvarbek)
