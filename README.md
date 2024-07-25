@@ -12,19 +12,19 @@
 ### 🚀 About Me
 
 ```python
-class SarvarbekAminov:
-    def __init__(self):
-        self.name = "Sarvarbek Aminov"
-        self.role = "Software Developer"
-        self.location = "Uzbekistan"
-        self.interests = ["Coding", "Learning", "Innovating"]
-    
-    def __str__(self):
-        return f"Hello, I'm {self.name}, a passionate {self.role} from {self.location}!"
-    
-    def get_skills(self):
-        return ["Python", "JavaScript", "React", "Dart", "Flutter", "Vue.js", "TailwindCSS"]
-    
-
-sarvarbek = SarvarbekAminov()
-print(sarvarbek)
+>>> class SarvarbekAminov:
+...     def __init__(self):
+...         self.name = "Sarvarbek Aminov"
+...         self.role = "Software Developer"
+...         self.location = "Uzbekistan"
+...         self.interests = ["Coding", "Learning", "Innovating"]
+...     
+...     def __str__(self):
+...         return f"Hello, I'm {self.name}, a passionate {self.role} from {self.location}!"
+...     
+...     def get_skills(self):
+...         return ["Python", "JavaScript", "React", "Dart", "Flutter", "Vue.js", "TailwindCSS"]
+... 
+>>> sarvarbek = SarvarbekAminov()
+>>> print(sarvarbek)
+Hello, I'm Sarvarbek Aminov, a passionate Software Developer from Uzbekistan!
