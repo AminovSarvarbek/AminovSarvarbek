@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-```python
+```shell
 >>> class SarvarbekAminov:
 ...     def __init__(self):
 ...         self.name = "Sarvarbek Aminov"
