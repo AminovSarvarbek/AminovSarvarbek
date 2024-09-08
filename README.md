@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **SarvarbekAminovoff@gmail.com**
 
-<h3 align="left">Connect with me: **t.me/techSarvarbek**</h3>
 <p align="left">
 </p>
 
